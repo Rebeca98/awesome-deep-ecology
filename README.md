@@ -160,6 +160,10 @@ An introduction to [Deep Learning for Ecology](https://github.com/patrickcgray/d
 * [NIPS4Bplus: a richly annotated birdsong audio dataset](https://arxiv.org/abs/1811.02275)
 * [Camera-Trap datasets used in Willi et. al](https://doi.org/10.13020/D6T11K): over 7M annotated images from South Africa, Tanzania, and Wisconsin
 
+## Species Libraries
+* [Integrated Digitized Biocollections](https://www.idigbio.org/)
+* [Sistema de Informação sobre a Biodiversidade Brasileira (SiBBr)](https://sibbr.gov.br/)
+* 
 ## Further Reading
 
 * [Survey of machine learning applications for camera traps](https://agentmorris.github.io/camera-trap-ml-survey/)
